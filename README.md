@@ -6,7 +6,7 @@ Pitch Deck: [https://source.juicyton.tech/juicy.pdf](https://source.juicyton.tec
 
 #### Useful Links:
 
-* [Telegram Bot](https://t.me/JUICY_Trading_bot) (https://t.me/JUICY_Trading_bot)
-* [Telegram Channel](https://t.me/Juicy_ton) (https://t.me/Juicy_ton)
-* [Twitter](https://x.com/Juicy_ton) (https://x.com/Juicy_ton)
-* [Website](https://juicyton.tech) (https://juicyton.tech)
+* [Telegram Bot](https://t.me/JUICY_Trading_bot)
+* [Telegram Channel](https://t.me/Juicy_ton)
+* [Twitter](https://x.com/Juicy_ton)
+* [Website](https://juicyton.tech)
